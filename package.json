@@ -1,0 +1,16 @@
+{
+  "name": "bgio-storageapi-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boardgame.io": "^0.39.10",
+    "react": "^16.13.1",
+    "typescript": "^3.8.3"
+  }
+}
